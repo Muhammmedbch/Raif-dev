@@ -264,6 +264,7 @@ footer {
   border: 1px solid #7f78ff;
   border-radius: 30px;
   padding: 30px;
+  text-align: center;
 }
 
 #about #cards div img {
@@ -518,3 +519,4 @@ footer span {
     margin: 7px 0px;
   }
 }
+
